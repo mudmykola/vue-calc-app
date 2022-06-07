@@ -85,7 +85,9 @@ export default {
 </script>
 
 <style>
-
+.bg-vue-dark {
+  background: #31475e;
+}
 .hover-class:hover {
   cursor: pointer;
   background: #3d5875;
